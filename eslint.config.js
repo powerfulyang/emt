@@ -10,8 +10,6 @@ export default antfu(
   {
     rules: {
       // overrides
-      'curly': ['error', 'multi-line'],
-      'style/no-tabs': 'off',
     },
   },
 )
